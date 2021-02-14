@@ -1,3 +1,5 @@
-# comidas-aleatorias
-Este es un programa que selecciona recetas de comida saludable para el menu semanal de la familia
-Esto es una prueba
+# Comidas-Aleatorias-7804
+Este es un programa que selecciona recetas de comida saludable desde una lista conocida, para el menú semanal de la familia.
+
+Esto además permite generar una lista de ingredientes necesarios para generar la lista de compras de lo faltante (Por realizar).
+
